@@ -1,0 +1,64 @@
+* {
+    background-color: #291f1e;
+}
+  
+  h1 {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    background-color: #ffffff;
+    color: black;
+  }
+
+  h2 {
+    font-family: 'Noto Sans HK', sans-serif;
+    color: #ffffff;
+  }
+
+  h3 {
+    font-family: 'Noto Sans HK', sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ffffff;
+    border: 1px solid black;
+    border-radius: 0.5em;
+    padding-left: 2em;
+    padding-right: 2em;
+    width: 900px;
+  }
+
+  nav {
+    text-align: center;
+  }
+  
+  nav a:hover {
+    color: white;
+    background-color: #97Db4f;
+  }
+  
+  main {
+    color: white;
+    font-size: 17px;
+    padding-left: 2em;
+    padding-right: 2em;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  main em {
+    font-weight: bold;
+  }
+
+  img {
+    height: 15em;
+    margin-right: auto;
+    margin-left: auto;
+    float: right;
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  
+  footer {
+    color: white;
+  }
