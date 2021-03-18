@@ -3,7 +3,7 @@
 }
   
   h1 {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     text-align: center;
     font-size: 50px;
     background-color: #ffffff;
@@ -11,7 +11,7 @@
   }
 
   h2 {
-    font-family: 'Noto Sans HK', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
     color: #ffffff;
   }
 
@@ -30,7 +30,14 @@
   }
 
   nav {
-    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #291f1e;
+    display: block;
+    margin-bottom: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
   }
   
   nav a:hover {
@@ -41,9 +48,8 @@
   main {
     color: white;
     font-size: 17px;
-    padding-left: 2em;
     padding-right: 2em;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
   }
   
   main em {
@@ -61,4 +67,5 @@
   
   footer {
     color: white;
+    font-family: 'Fira Sans', sans-serif;
   }
