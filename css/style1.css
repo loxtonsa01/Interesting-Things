@@ -29,7 +29,8 @@
   }
 
   nav {
-    width: 34%;
+    font-family: 'Montserrat', sans-serif;
+    width: 40%;
     margin-right: auto;
     margin-left: auto;
   }
@@ -61,5 +62,5 @@
   }
   
   footer {
-    background-color: #59696f;
+    font-family: 'Montserrat', sans-serif;
   }

@@ -31,13 +31,9 @@
 
   nav {
     font-family: 'Fira Sans', sans-serif;
-    text-decoration: none;
-    color: #ffffff;
-    background-color: #291f1e;
-    display: block;
-    margin-bottom: 2em;
-    padding-left: 3em;
-    padding-right: 3em;
+    width: 36%;
+    margin-right: auto;
+    margin-left: auto;
   }
   
   nav a:hover {
@@ -46,6 +42,7 @@
   }
   
   main {
+    padding-left: 2em;
     color: white;
     font-size: 17px;
     padding-right: 2em;
@@ -57,12 +54,12 @@
   }
 
   img {
-    height: 15em;
-    margin-right: auto;
-    margin-left: auto;
-    float: right;
-    padding-left: 2em;
-    padding-right: 2em;
+    height: 20em;
+        margin-right: auto;
+        margin-left: auto;
+        float: left;
+        padding-left: 2em;
+        padding-right: 2em;
   }
   
   footer {
